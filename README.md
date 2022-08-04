@@ -1,10 +1,13 @@
 Network Processor
 =================
+npm --version
+> 6.14.16
 
 node version 14.19
 > nvm use v14.19
 
 To start the processor:
+> npm i
 > node run.js
 
 The processor will output the known classifications for a well structured input.
